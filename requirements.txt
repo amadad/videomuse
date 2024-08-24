@@ -1,0 +1,8 @@
+moviepy
+requests
+pydub
+opencv-python
+streamlit
+google-generativeai
+instructor
+pydantic
