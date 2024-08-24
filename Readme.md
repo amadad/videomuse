@@ -36,7 +36,7 @@ VideoMuse is an AI-powered application that generates custom music for your vide
 
 ## 📖 Overview
 
-VideoMuse automates the process of creating music videos by analyzing the content of your video and generating a custom music track to accompany it. Using advanced AI models and audio processing techniques, VideoMuse produces high-quality music that complements your video's mood, style, and content.
+VideoMuse automates the process of creating music videos by analyzing the content of your video and generating a lyrics, selecting a music style, and creating a custom music track to accompany it. Using advanced AI models and audio processing techniques, VideoMuse produces high-quality music that complements your video's mood, style, and content.
 
 ## ✨ Features
 
